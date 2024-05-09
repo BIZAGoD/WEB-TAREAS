@@ -1,0 +1,114 @@
+body
+{
+    background-color: #c4f4ef;
+}
+
+h5
+{
+    font-size: 20px;
+    color: #ffffff;
+    text-align: center;
+    display: flex;
+    margin: 65px;
+}
+
+h4
+{
+    font-size: 20px;
+    color: #ffffff;
+    text-align: 50px;
+    margin: 50px;
+}
+
+h3
+{
+    font-size: 20px;
+    color: #ffffff;
+    text-align: center;
+    display: flex;
+    margin: 65px;
+}
+
+
+.nav 
+{
+
+    background-color:#24b34a;
+    width: 1000px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+
+.header{
+    background-color: #3d34ed;
+    width: 1000px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.contenedor
+{
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column; 
+}
+
+.Main{
+    width: 1000px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    background-color: rgb(165, 229, 47);
+}
+
+.logo{
+    width: 200px;
+    height: 100px;
+    background-color: #05a9f0;
+}
+.login{
+    width: 200px;
+    height: 100px;
+    background-color: #e126a3;
+}
+.form{
+    width: 200px;
+    height: 100px;
+    background-color: #4712a3;
+}
+
+.banner
+{
+    width: 800px;
+    height: 300px;
+}
+
+.foter
+{
+    width: 1000px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fec919ae;
+    display: flex;
+    text-align: center;
+}
+
+.aside{
+    width: 200px;
+    height: 500px;
+    background-color: #effe19ae;
+    text-align: center;
+}
+.article{
+    width: 600px;
+    height: 500px;
+    background-color: #effe19ae;
+    text-align: center;
+}
